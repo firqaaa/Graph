@@ -1,2 +1,2 @@
 # Graph
-Graph Exploration using PyG (PyTorch Geometric) networkx
+Graph Exploration using PyG (PyTorch Geometric) and networkx
